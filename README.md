@@ -32,6 +32,7 @@
 | Anti-Estranjeros|✔️|
 | Anti-Trabas|✔️|
 | Anti-Spam_CMDS|✔️|
+| Anti-Arabes|✔️|
 | Creador de logos|✔️|
 | Imagenes-Random|✔️|
 | Juegos|✔️|
@@ -48,8 +49,8 @@
 # 🧑‍💻 Instalacion en termux
 ```cmd
 -> pkg install git
--> git clone https://github.com/NeKosmic/Quantum-Bot
--> cd Quantum-Bot
+-> git clone https://github.com/Ivan56x/Luis-Bot1
+-> cd Luis-Bot1
 -> bash install.sh
 -> npm start
 ```
