@@ -106,6 +106,7 @@ ${nwn}
 ║├ ${prefix}antifakes
 ║├ ${prefix}antifakes2
 ║├ ${prefix}antiextranjeros
+║├ ${prefix}antiarabes
 ║╰┬> _JUEGOS_
 ║╭╯
 ║├ ${prefix}deathnote
@@ -317,10 +318,10 @@ exports.Wlc3 = (num, metadata, fechaCompleta, gpdesc, nwn, nvn) => {
   return `⚡ *Bienvenid@ @${num.split("@")[0]} a este grandioso grupo :*\n${metadata.subject}\n⚡ *Fecha de ingreso : ${fechaCompleta}*\n⚡ _*Espero y te agrade tu estancia aqui, no olvides respetar a los participantes y las reglas*_ ;)\n\n*Normas del grupo actualmente :* \n${nwn}\n${gpdesc}`
 }
 exports.Wlc4 = () => {
-  return `ADIOS NO REGRESES... 😔`
+  return `𝙰𝙳𝙸𝙾́𝚂... 😔`
 }
 exports.Wlc5 = (num) => {
-  return `[ ! ] C fue alv : @${num.split("@")[0]}`
+  return `[ ! ] 𝙷𝙰𝚂𝚃𝙰 𝙿𝚁𝙾𝙽𝚃𝙾 👋🏻 𝙽𝙰𝙳𝙸𝙴 𝚃𝙴 𝚅𝙰 𝙴𝚇𝚃𝚁𝙰𝙽̃𝙰𝚁 : @${num.split("@")[0]}`
 }
 exports.NoSpam1 = () => {
   return `*Espere unos segundos antes de usar otro comando ✓*`
