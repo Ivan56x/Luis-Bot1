@@ -101,6 +101,7 @@ ${nwn}
 *║├ ${prefix}antitraba*
 *║├ ${prefix}antifakes*
 *║├ ${prefix}antiextranjeros*
+*║├ ${prefix}antiarabes*
 *║├ ${prefix}wlc*
 *║╰┬> GAMES*
 *║╭╯*
@@ -310,7 +311,7 @@ exports.Wlc3 = (num, metadata, fechaCompleta, gpdesc) => {
   return `⚡ *Welcome @${num.split("@")[0]} to this great group :*\n${metadata.subject}\n⚡ *Date of admission : ${fechaCompleta}*\n⚡ _*I hope and you like your stay here, do not forget to respect the participants and the rules*_ ;)\n\n*Group norms currently :* \n${gpdesc}`
 }
 exports.Wlc4 = () => {
-  return `BYE BYE... 😆`
+  return `BYE BYE... 😔`
 }
 exports.Wlc5 = (num) => {
   return `[ ! ] Left the group : @${num.split("@")[0]}`
