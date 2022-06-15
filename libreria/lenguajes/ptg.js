@@ -101,6 +101,7 @@ ${nwn}
 *║├ ${prefix}antitraba*
 *║├ ${prefix}antifakes*
 *║├ ${prefix}antiextranjeros*
+*║├ ${prefix}antiarabes*
 *║├ ${prefix}wlc*
 *║╰┬> JOGOS*
 *║╭╯*
