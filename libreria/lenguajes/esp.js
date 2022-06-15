@@ -317,7 +317,7 @@ exports.Wlc3 = (num, metadata, fechaCompleta, gpdesc, nwn, nvn) => {
   return `⚡ *Bienvenid@ @${num.split("@")[0]} a este grandioso grupo :*\n${metadata.subject}\n⚡ *Fecha de ingreso : ${fechaCompleta}*\n⚡ _*Espero y te agrade tu estancia aqui, no olvides respetar a los participantes y las reglas*_ ;)\n\n*Normas del grupo actualmente :* \n${nwn}\n${gpdesc}`
 }
 exports.Wlc4 = () => {
-  return `ADIOS... 😔`
+  return `ADIOS NO REGRESES... 😔`
 }
 exports.Wlc5 = (num) => {
   return `[ ! ] C fue alv : @${num.split("@")[0]}`
