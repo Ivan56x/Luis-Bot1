@@ -1,5 +1,5 @@
 {
-  "name": "ꪶ卐ꫂ ℓꪊ́ͥ𝙸ᷧ𝚂ͫ⛧к᩻เ᩻᭢᩻૭࿖͎༅͎࿑",
+  "name": "Luis-Bot1",
   "version": "1.0.0",
   "description": "Bot para Whatsapp en español y un poco multilingüe :v",
   "main": "Quantum.js",
@@ -17,7 +17,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "ꪶ卐ꫂ ℓꪊ́ͥ𝙸ᷧ𝚂ͫ⛧к᩻เ᩻᭢᩻૭࿖͎༅͎࿑",
+  "author": "Luis",
   "license": "GNU",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
