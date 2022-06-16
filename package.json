@@ -2,9 +2,9 @@
   "name": "Luis-Bot1",
   "version": "1.0.0",
   "description": "Bot para Whatsapp en español y un poco multilingüe :v",
-  "main": "Quantum.js",
+  "main": "Luis-Bot1.js",
   "scripts": {
-    "start": "node Quantum.js",
+    "start": "node Luis-Bot1.js",
     "type": "commonjs"
   },
   "directories": {
