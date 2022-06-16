@@ -318,10 +318,10 @@ exports.Wlc3 = (num, metadata, fechaCompleta, gpdesc, nwn, nvn) => {
   return `⚡ *Bienvenid@ @${num.split("@")[0]} a este grandioso grupo :*\n${metadata.subject}\n⚡ *Fecha de ingreso : ${fechaCompleta}*\n⚡ _*Espero y te agrade tu estancia aqui, no olvides respetar a los participantes y las reglas*_ ;)\n\n*Normas del grupo actualmente :* \n${nwn}\n${gpdesc}`
 }
 exports.Wlc4 = () => {
-  return `𝙰𝙳𝙸𝙾𝚂... 😔`
+  return `ADIÓS... 😔`
 }
 exports.Wlc5 = (num) => {
-  return `[ ! ] 𝙷𝙰𝚂𝚃𝙰 𝙿𝚁𝙾𝙽𝚃𝙾 👋🏻 𝙽𝙰𝙳𝙸𝙴 𝚃𝙴 𝚅𝙰 𝙴𝚇𝚃𝚁𝙰Ñ𝙰𝚁 : @${num.split("@")[0]}`
+  return `[ ! ] HASTA PRONTO NADIE TE VA EXTRAÑAR : @${num.split("@")[0]}`
 }
 exports.NoSpam1 = () => {
   return `*Espere unos segundos antes de usar otro comando ✓*`
